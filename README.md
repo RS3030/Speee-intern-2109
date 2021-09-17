@@ -1,9 +1,22 @@
-<img align="right" width="300" alt="logo" src="https://user-images.githubusercontent.com/69951513/133740376-bb0a8a9e-7911-4231-a53e-e8a4a3e46ff8.png">
+<p align="center">
+  <img align="" width="300" alt="logo" src="https://user-images.githubusercontent.com/69951513/133740376-bb0a8a9e-7911-4231-a53e-e8a4a3e46ff8.png">
+  <h2 align="center">らくらく不動産売却</h2>
+  <p align="center">2021/9 Speee 12days開発インターン チームhammings 制作物</p>
+  <br>
+</p>
+<br>
 
-## らくらく不動産売却
-<img width="480" alt="スクリーンショット 2021-09-17 16 17 00" src="https://user-images.githubusercontent.com/69951513/133740977-1e62e368-3483-40a4-9642-17e4d052b2f6.png">
-<img width="480" alt="スクリーンショット 2021-09-17 16 17 37" src="https://user-images.githubusercontent.com/69951513/133741052-b753b4a9-57cb-4989-abc4-551646fa2c2f.png">
-<img width="480" alt="スクリーンショット 2021-09-17 16 18 08" src="https://user-images.githubusercontent.com/69951513/133741105-77dae230-c66b-41e2-9a44-aa58dc35a781.png">
+# メンバー
+
+<a title="Saul Mirone" href="https://github.com/lowzzy"><img src="https://avatars.githubusercontent.com/u/60597773?v=4" width="60" alt="profile picture of Saul Mirone"></a>
+<a title="Meo" href="https://github.com/AmiYamamot0"><img src="https://avatars.githubusercontent.com/u/47714983?v=4" width="60" alt="profile picture of Meo"></a>
+<a title="xia" href="https://github.com/RS3030"><img src="https://avatars.githubusercontent.com/u/69951513?v=4" width="60" alt="profile picture of xiadd"></a>
+<a title="EllePeng" href="https://github.com/tak-ka3"><img src="https://avatars.githubusercontent.com/u/63624070?v=4" width="60" alt="profile picture of EllePeng"></a>
+
+## スクリーンショット
+<img width="700" alt="スクリーンショット 2021-09-17 16 17 00" src="https://user-images.githubusercontent.com/69951513/133740977-1e62e368-3483-40a4-9642-17e4d052b2f6.png">
+<img width="700" alt="スクリーンショット 2021-09-17 16 17 37" src="https://user-images.githubusercontent.com/69951513/133741052-b753b4a9-57cb-4989-abc4-551646fa2c2f.png">
+<img width="700" alt="スクリーンショット 2021-09-17 16 18 08" src="https://user-images.githubusercontent.com/69951513/133741105-77dae230-c66b-41e2-9a44-aa58dc35a781.png">
 
 ## 環境構築
 
@@ -75,11 +88,4 @@ rubocop -A
 rake import:prefecture
 rake import:city
 ```
-
-# Contributor
-
-<a title="Saul Mirone" href="https://github.com/lowzzy"><img src="https://avatars.githubusercontent.com/u/60597773?v=4" width="100" alt="profile picture of Saul Mirone"></a>
-<a title="Meo" href="https://github.com/AmiYamamot0"><img src="https://avatars.githubusercontent.com/u/47714983?v=4" width="100" alt="profile picture of Meo"></a>
-<a title="xia" href="https://github.com/RS3030"><img src="https://avatars.githubusercontent.com/u/69951513?v=4" width="100" alt="profile picture of xiadd"></a>
-<a title="EllePeng" href="https://github.com/tak-ka3"><img src="https://avatars.githubusercontent.com/u/63624070?v=4" width="100" alt="profile picture of EllePeng"></a>
 
