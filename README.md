@@ -8,15 +8,30 @@
 
 # メンバー
 
-<a title="Saul Mirone" href="https://github.com/lowzzy"><img src="https://avatars.githubusercontent.com/u/60597773?v=4" width="60" alt="profile picture of Saul Mirone"></a>
-<a title="Meo" href="https://github.com/AmiYamamot0"><img src="https://avatars.githubusercontent.com/u/47714983?v=4" width="60" alt="profile picture of Meo"></a>
-<a title="xia" href="https://github.com/RS3030"><img src="https://avatars.githubusercontent.com/u/69951513?v=4" width="60" alt="profile picture of xiadd"></a>
-<a title="EllePeng" href="https://github.com/tak-ka3"><img src="https://avatars.githubusercontent.com/u/63624070?v=4" width="60" alt="profile picture of EllePeng"></a>
+<a title="Michiro" href="https://github.com/lowzzy"><img src="https://avatars.githubusercontent.com/u/60597773?v=4" width="60" alt="profile picture of Saul Mirone"></a>
+<a title="Ami" href="https://github.com/AmiYamamot0"><img src="https://avatars.githubusercontent.com/u/47714983?v=4" width="60" alt="profile picture of Meo"></a>
+<a title="Ryo" href="https://github.com/RS3030"><img src="https://avatars.githubusercontent.com/u/69951513?v=4" width="60" alt="profile picture of xiadd"></a>
+<a title="Takumi" href="https://github.com/tak-ka3"><img src="https://avatars.githubusercontent.com/u/63624070?v=4" width="60" alt="profile picture of EllePeng"></a>
 
 ## スクリーンショット
 <img width="700" alt="スクリーンショット 2021-09-17 16 17 00" src="https://user-images.githubusercontent.com/69951513/133740977-1e62e368-3483-40a4-9642-17e4d052b2f6.png">
 <img width="700" alt="スクリーンショット 2021-09-17 16 17 37" src="https://user-images.githubusercontent.com/69951513/133741052-b753b4a9-57cb-4989-abc4-551646fa2c2f.png">
 <img width="700" alt="スクリーンショット 2021-09-17 16 18 08" src="https://user-images.githubusercontent.com/69951513/133741105-77dae230-c66b-41e2-9a44-aa58dc35a781.png">
+
+## プロジェクト概要
+<li><b>空き家を手間なく売れる不動産売却代行サービス</b></li>
+らくらく不動産売却は、「空き家が遠くにあり、管理が大変でコストがかかる」「住む予定もない」などの理由から売却を考えているが、「日々の忙しさ」「家への愛着」から面倒な不動産売却に踏み出せない…
+<br>
+そんなユーザーの悩みを解消する売却代行サービスです。
+<br><br>
+ユーザーは<b>類似物件検索機能</b>で相場を確認後、その後の査定・不動産会社選定から売却完了までの全ての手続きを当サービスに委任することができます。
+これにより従来面倒であった手続き・意思決定は、当サービスとの契約の一度に集約され、ユーザーは「らくらく」家を手放すことができます。
+<br><br>
+売却の代行中、ユーザーはいつでも<b>ステータス</b>（売却の進捗状況）を見ることができ、またいつでも契約をキャンセルできます。
+<br><br>
+また、ユーザーは<b>買い手を事前に確認</b>することができます。家の買い手候補が現れると買い手の情報がユーザー側に表示され、買い手候補が複数現れた場合はユーザーが買い手を決めることができます。
+これによりユーザーは「家を大切に使ってくれそうな買い手を次のオーナーとして選ぶ」といったこともできるようになり、家を安心して手放すことができます。
+
 
 ## 環境構築
 
